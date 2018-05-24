@@ -1,0 +1,26 @@
+{
+    "map": {
+        "testresult": "Pass",
+        "testcasename": "loginTest",
+        "deviceinfo": {
+            "device": {
+                "udid": "FA694F6C-6CBC-4F74-8947-F9993F5242C8",
+                "name": "iPhone 6",
+                "state": "Booted",
+                "osVersion": "11.0",
+                "os": "iOS",
+                "deviceType": "iOS 11.0",
+                "brand": "Not Supported",
+                "apiLevel": "Not Supported",
+                "isDevice": false,
+                "deviceModel": "Not Supported",
+                "available": true
+            },
+            "port": 65035,
+            "hostName": "127.0.0.1",
+            "localDevice": true,
+            "available": true
+        },
+        "status": "started"
+    }
+}
